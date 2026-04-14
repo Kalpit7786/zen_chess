@@ -1,6 +1,6 @@
 # ♟️ Zen Chess | Interactive Web Application
 
-**Live Demo:** [Insert your GitHub Pages Link Here]
+**Live Demo:** https://kalpit7786.github.io/zen_chess/
 
 ## 📖 Overview
 
